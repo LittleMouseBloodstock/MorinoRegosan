@@ -1,1 +1,1 @@
-# MorinoLegosan
+# MorinoRegosan
